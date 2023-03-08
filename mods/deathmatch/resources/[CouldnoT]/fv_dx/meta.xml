@@ -1,0 +1,36 @@
+<meta>
+	<script src="client.lua" type="client" cache="false" />
+
+	<export function="dxCreateEdit" type="client"/>
+	<export function="dxDestroyEdit" type="client"/>
+	<export function="dxGetEditText" type="client"/>
+	<export function="dxEditSetText" type="client"/>
+	<export function="dxGetActiveEdit" type="client"/>
+	<export function="dxSetEditPosition" type="client"/>
+	<export function="dxGetEdit" type="client"/>
+
+	<export function="dxDrawBorder" type="client" />
+	<export function="DrawButton" type="client" />
+	<export function="res" type="client" />
+	<export function="resFont" type="client" />
+
+	<script src="edgeC.lua" type="client" cache="false" />
+
+	<export function="addElementEdge" type="client" /> 
+	<export function="destroyElementEdge" type="client" /> 
+
+
+	<script src="global.lua" type="shared" cache="false" />
+	<export function="getSkinGender" type="shared" />
+	<export function="firstToUpper" type="shared" />
+	<export function="formatMoney" type="shared" />
+
+	<script src="server.lua" type="server" />
+	<export function="getRandomName" type="server" />
+
+
+
+	<file src="fx/ped_wall_mrt.fx" type="client" />
+	<file src="fx/post_edge.fx" type="client" />
+	<min_mta_version client="1.5.1" server="1.5.1" />
+</meta>

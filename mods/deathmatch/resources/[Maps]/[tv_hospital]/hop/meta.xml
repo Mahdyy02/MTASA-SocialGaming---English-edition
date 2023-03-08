@@ -1,0 +1,11 @@
+<meta>
+    <info author="Scorpion mapper" name="DFF" version="1.4.1" type="script" />
+    <script src="client.lua" type="client" />
+	<file src="hospital.txd" />
+	<file src="hospital.col" />
+	<file src="hospital.dff" />
+	<file src="quarto1.txd" />
+	<file src="quarto1.col" />
+	<file src="quarto1.dff" />
+	
+</meta>

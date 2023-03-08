@@ -1,0 +1,14 @@
+<meta>
+    <script src="global.lua" type="shared" />
+    <script src="server.lua" type="server" />
+    <script src="collapsedS.lua" type="server" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="collapsedC.lua" type="client" cache="false" />
+    <script src="getupC.lua" type="client" cache="false" />
+    
+    <file src="roundedBar.png" />
+    <file src="cuff.txd" />
+    <file src="cuff.dff" />
+    
+    <min_mta_version client="1.3.0-9.04482"></min_mta_version>
+</meta>

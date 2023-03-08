@@ -1,0 +1,9 @@
+<meta>
+	<info description="Handling Loader" version="0.0.2" author="DogukanSkill" type="script" />
+	<script src="_handling_common.lua"/>
+	<script src="s_handling_loader.lua"/>
+	<script src="s_player_management.lua"/>
+	<script src="_handling_common.lua" type="client" cache="false" />
+	<script src="c_handling_loader.lua" type="client" cache="false" />
+	<file src="handling.cfg" />
+</meta>

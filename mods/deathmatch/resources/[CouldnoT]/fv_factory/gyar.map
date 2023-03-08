@@ -1,0 +1,16 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (cuntwjunk10) (1)" radius="35.469063" interior="0" model="18254" lodModel="18555" posX="-1813.8047" posY="-1615.5625" posZ="29.85156" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (countS_lights01) (1)" radius="10.927382" interior="0" model="18608" lodModel="0" posX="-1818.4531" posY="-1613.0391" posZ="32.78906" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (din_donut_furn) (1)" breakable="true" interior="0" alpha="255" model="18077" doublesided="true" scale="1" dimension="0" posX="-1852.9" posY="-1606.5" posZ="64.8" rotX="0" rotY="0" rotZ="358"></object>
+    <removeWorldObject id="removeWorldObject (cuntwjunk06) (1)" radius="23.967941" interior="0" model="18250" lodModel="18557" posX="-1857.2969" posY="-1617.9766" posZ="26.8125" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cuntwjunk09) (1)" radius="11.165644" interior="0" model="18253" lodModel="0" posX="-1888.8047" posY="-1604.1328" posZ="23.375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cuntwjunk04) (1)" radius="27.544598" interior="0" model="18246" lodModel="0" posX="-1857.8359" posY="-1573.375" posZ="23.3125" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cuntwjunk03) (1)" radius="40.784203" interior="0" model="18247" lodModel="18560" posX="-1874.3437" posY="-1680.9531" posZ="25.4375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (cuntwjunk01) (1)" breakable="true" interior="0" alpha="255" model="18248" doublesided="false" scale="1" dimension="0" posX="-1824.3" posY="-1634.8" posZ="28.6" rotX="0" rotY="0" rotZ="272.75"></object>
+    <removeWorldObject id="removeWorldObject (cuntwjunk01) (1)" radius="12.708654" interior="0" model="18248" lodModel="0" posX="-1852.2578" posY="-1676.2187" posZ="28.61719" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cuntwjunk08) (1)" radius="16.186058" interior="0" model="18252" lodModel="0" posX="-1888.9766" posY="-1633.2734" posZ="24.48438" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cuntwjunk07) (1)" radius="34.725071" interior="0" model="18251" lodModel="18556" posX="-1907.6172" posY="-1666.6797" posZ="29.85156" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (cuntwjunk02) (1)" breakable="true" interior="0" alpha="255" model="18245" doublesided="false" scale="1" dimension="0" posX="-1916.8" posY="-1652.6" posZ="33.2" rotX="0" rotY="0" rotZ="130.997"></object>
+    <removeWorldObject id="removeWorldObject (cuntwjunk02) (1)" radius="43.925446" interior="0" model="18245" lodModel="18499" posX="-1849.5156" posY="-1701.1562" posZ="32.95313" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (cuntwjunk05) (1)" breakable="true" interior="0" alpha="255" model="18249" doublesided="false" scale="1" dimension="0" posX="-1809.6" posY="-1689.9" posZ="26.4" rotX="0" rotY="0" rotZ="305.998"></object>
+</map>

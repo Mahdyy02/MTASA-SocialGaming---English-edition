@@ -1,0 +1,277 @@
+<meta>
+    
+    <script type="client" src="sourceC.lua" cache="false" />
+
+    <file src="files/atf/142.dff" />
+    <file src="files/atf/142.txd" />
+    <file src="files/atf/143.dff" />
+    <file src="files/atf/143.txd" />
+    <file src="files/atf/144.dff" />
+    <file src="files/atf/144.txd" />
+    
+    <file src="files/lsfd/159.dff" />
+    <file src="files/lsfd/159.txd" />
+    <file src="files/lsfd/160.dff" />
+    <file src="files/lsfd/160.txd" />
+    <file src="files/lsfd/161.dff" />
+    <file src="files/lsfd/161.txd" />
+    <file src="files/lsfd/162.dff" />
+    <file src="files/lsfd/162.txd" />
+    <file src="files/lsfd/163.dff" />
+    <file src="files/lsfd/163.txd" />
+    <file src="files/lsfd/164.dff" />
+    <file src="files/lsfd/164.txd" />
+    <file src="files/lsfd/165.dff" />
+    <file src="files/lsfd/165.txd" />
+    
+
+    <file src="files/lsfd/166.dff" />
+    <file src="files/lsfd/166.txd" />
+    <file src="files/lsfd/167.dff" />
+    <file src="files/lsfd/167.txd" />
+    <file src="files/lsfd/168.dff" />
+    <file src="files/lsfd/168.txd" />
+    
+
+    <file src="files/lspd/132.dff" />
+    <file src="files/lspd/132.txd" />
+    <file src="files/lspd/133.dff" />
+    <file src="files/lspd/133.txd" />
+    <file src="files/lspd/134.dff" />
+    <file src="files/lspd/134.txd" />
+    <file src="files/lspd/135.dff" />
+    <file src="files/lspd/135.txd" />
+    <file src="files/lspd/136.dff" />
+    <file src="files/lspd/136.txd" />
+    <file src="files/lspd/137.dff" />
+    <file src="files/lspd/137.txd" />
+    <file src="files/lspd/138.dff" />
+    <file src="files/lspd/138.txd" />>
+
+    <file src="files/lssd/263.dff" />
+    <file src="files/lssd/263.txd" />
+    <file src="files/lssd/264.dff" />
+    <file src="files/lssd/264.txd" />
+    <file src="files/lssd/265.dff" />
+    <file src="files/lssd/265.txd" />
+    <file src="files/lssd/266.dff" />
+    <file src="files/lssd/266.txd" />
+    <file src="files/lssd/267.dff" />
+    <file src="files/lssd/267.txd" />
+    <file src="files/lssd/268.dff" />
+    <file src="files/lssd/268.txd" />
+    <file src="files/lssd/269.dff" />
+    <file src="files/lssd/269.txd" />
+    <file src="files/lssd/270.dff" />
+    <file src="files/lssd/270.txd" />
+    <file src="files/lssd/271.dff" />
+    <file src="files/lssd/271.txd" />
+
+    <file src="files/wahching/153.dff" />
+    <file src="files/wahching/153.txd" />
+    <file src="files/wahching/154.dff" />
+    <file src="files/wahching/154.txd" />
+    <file src="files/wahching/155.dff" />
+    <file src="files/wahching/155.txd" />
+    <file src="files/wahching/156.dff" />
+    <file src="files/wahching/156.txd" />
+
+
+    <file src="files/ccf/100.dff" />
+    <file src="files/ccf/100.txd" />
+    <file src="files/ccf/94.dff" />
+    <file src="files/ccf/94.txd" />
+    <file src="files/ccf/95.dff" />
+    <file src="files/ccf/95.txd" />
+    <file src="files/ccf/96.dff" />
+    <file src="files/ccf/96.txd" />
+    <file src="files/ccf/97.dff" />
+    <file src="files/ccf/97.txd" />
+    <file src="files/ccf/98.dff" /> 
+    <file src="files/ccf/98.txd" />
+    <file src="files/ccf/99.dff" />
+    <file src="files/ccf/99.txd" />
+
+    <file src="files/bratva/227.txd" type="client"/>
+    <file src="files/bratva/227.dff" type="client"/>  
+    <file src="files/bratva/228.txd" type="client"/>
+    <file src="files/bratva/228.dff" type="client"/>  
+    <file src="files/bratva/229.txd" type="client"/>
+    <file src="files/bratva/229.dff" type="client"/>  
+    <file src="files/bratva/230.txd" type="client"/>
+    <file src="files/bratva/230.dff" type="client"/>  
+    <file src="files/bratva/231.txd" type="client"/>
+    <file src="files/bratva/231.dff" type="client"/>  
+
+    <file src="files/piru/185.txd" type="client"/>
+    <file src="files/piru/185.dff" type="client"/>  
+    <file src="files/piru/186.txd" type="client"/>
+    <file src="files/piru/186.dff" type="client"/>  
+    <file src="files/piru/187.txd" type="client"/>
+    <file src="files/piru/187.dff" type="client"/>  
+    <file src="files/piru/188.txd" type="client"/>
+    <file src="files/piru/188.dff" type="client"/>  
+    <file src="files/piru/189.txd" type="client"/>
+    <file src="files/piru/189.dff" type="client"/>  
+    <file src="files/piru/190.txd" type="client"/>
+    <file src="files/piru/190.dff" type="client"/> 
+
+    <file src="files/hustlers/80.dff" />
+    <file src="files/hustlers/80.txd" />
+    <file src="files/hustlers/81.dff" />
+    <file src="files/hustlers/81.txd" />
+    <file src="files/hustlers/82.dff" />
+    <file src="files/hustlers/82.txd" />
+    <file src="files/hustlers/83.dff" />
+    <file src="files/hustlers/83.txd" />
+    <file src="files/hustlers/84.dff" /> 
+    <file src="files/hustlers/84.txd" />
+
+    <file src="files/scf/24.dff" />
+    <file src="files/scf/24.txd" />
+    <file src="files/scf/25.dff" />
+    <file src="files/scf/25.txd" />
+    <file src="files/scf/26.dff" />
+    <file src="files/scf/26.txd" />
+    <file src="files/scf/27.dff" />
+    <file src="files/scf/27.txd" />
+    <file src="files/scf/28.dff" />
+    <file src="files/scf/28.txd" />
+    <file src="files/scf/29.dff" />
+    <file src="files/scf/29.txd" />
+    <file src="files/scf/30.dff" /> 
+    <file src="files/scf/30.txd" />
+    <file src="files/scf/31.dff" />
+    <file src="files/scf/31.txd" />
+
+    <file src="files/alien/311.dff" />
+    <file src="files/alien/311.txd" />
+    <file src="files/alien/312.dff" />
+    <file src="files/alien/312.txd" />
+
+<!-- Admin skin!-->
+    <file src="files/admin/1.txd" />
+    <file src="files/admin/1.dff" />
+
+<!-- MdDonalds -->
+    <file src="files/mcdonalds/301.txd" />    
+    <file src="files/mcdonalds/301.dff" />
+    <file src="files/mcdonalds/302.txd" />
+    <file src="files/mcdonalds/302.dff" /> 
+    <file src="files/mcdonalds/303.txd" />
+    <file src="files/mcdonalds/303.dff" /> 
+
+<!-- Mechanic -->
+    <file src="files/mechanic/170.txd" />
+    <file src="files/mechanic/170.dff" />            
+
+<!-- CIVIL SKINEK!-->
+    <file src="files/civilian/9.txd" />
+    <file src="files/civilian/9.dff" />
+    <file src="files/civilian/10.txd" />
+    <file src="files/civilian/10.dff" />
+    <file src="files/civilian/11.txd" />
+    <file src="files/civilian/11.dff" />
+    <file src="files/civilian/12.txd" />
+    <file src="files/civilian/12.dff" />
+    <file src="files/civilian/55.txd" />
+    <file src="files/civilian/55.dff" />
+    <file src="files/civilian/63.txd" />
+    <file src="files/civilian/63.dff" /> 
+    <file src="files/civilian/85.txd" />
+    <file src="files/civilian/85.dff" />
+    <file src="files/civilian/91.txd" />
+    <file src="files/civilian/91.dff" />   
+    <file src="files/civilian/92.txd" />
+    <file src="files/civilian/92.dff" />
+    <file src="files/civilian/93.txd" />
+    <file src="files/civilian/93.dff" /> 
+    <file src="files/civilian/130.txd" />
+    <file src="files/civilian/130.dff" />
+    <!-- női-->
+
+    <file src="files/civilian/7.txd" />
+    <file src="files/civilian/7.dff" />
+    <file src="files/civilian/14.txd" />
+    <file src="files/civilian/14.dff" />
+    <file src="files/civilian/15.txd" />
+    <file src="files/civilian/15.dff" />
+    <file src="files/civilian/17.txd" />
+    <file src="files/civilian/17.dff" />
+    <file src="files/civilian/18.txd" />
+    <file src="files/civilian/18.dff" />
+    <file src="files/civilian/19.txd" />
+    <file src="files/civilian/19.dff" />
+    <file src="files/civilian/20.txd" />
+    <file src="files/civilian/20.dff" />
+    <file src="files/civilian/21.txd" />
+    <file src="files/civilian/21.dff" />
+    <file src="files/civilian/22.txd" />
+    <file src="files/civilian/22.dff" />
+    <file src="files/civilian/23.txd" />
+    <file src="files/civilian/23.dff" />
+    <file src="files/civilian/34.txd" />
+    <file src="files/civilian/34.dff" />
+    <file src="files/civilian/41.txd" />
+    <file src="files/civilian/41.dff" />
+    <file src="files/civilian/44.txd" />
+    <file src="files/civilian/44.dff" />
+    <file src="files/civilian/46.txd" />
+    <file src="files/civilian/46.dff" />
+    <file src="files/civilian/47.txd" />
+    <file src="files/civilian/47.dff" />
+    <file src="files/civilian/48.txd" />
+    <file src="files/civilian/48.dff" />
+    <file src="files/civilian/49.txd" />
+    <file src="files/civilian/49.dff" />
+    <file src="files/civilian/51.txd" />
+    <file src="files/civilian/51.dff" />
+    <file src="files/civilian/52.txd" />
+    <file src="files/civilian/52.dff" />
+    <file src="files/civilian/57.txd" />
+    <file src="files/civilian/57.dff" />
+    <file src="files/civilian/58.txd" />
+    <file src="files/civilian/58.dff" />
+    <file src="files/civilian/59.txd" />
+    <file src="files/civilian/59.dff" />
+    <file src="files/civilian/60.txd" />
+    <file src="files/civilian/60.dff" />
+    <file src="files/civilian/61.txd" />
+    <file src="files/civilian/61.dff" />
+    <file src="files/civilian/62.txd" />
+    <file src="files/civilian/62.dff" /> 
+    <file src="files/civilian/66.txd" />
+    <file src="files/civilian/66.dff" />
+    <file src="files/civilian/67.txd" />
+    <file src="files/civilian/67.dff" />
+    <file src="files/civilian/68.txd" />
+    <file src="files/civilian/68.dff" />    
+    <file src="files/civilian/70.txd" />
+    <file src="files/civilian/70.dff" />  
+    <file src="files/civilian/71.txd" />
+    <file src="files/civilian/71.dff" />
+    <file src="files/civilian/72.txd" />
+    <file src="files/civilian/72.dff" />
+    <file src="files/civilian/73.txd" />
+    <file src="files/civilian/73.dff" />
+    <file src="files/civilian/74.txd" />
+    <file src="files/civilian/74.dff" />
+    <file src="files/civilian/78.txd" />
+    <file src="files/civilian/78.dff" />
+    <file src="files/civilian/176.txd" />
+    <file src="files/civilian/176.dff" /> 
+    <file src="files/civilian/177.txd" />
+    <file src="files/civilian/177.dff" />
+    <file src="files/civilian/179.txd" />
+    <file src="files/civilian/179.dff" />
+    <file src="files/civilian/180.txd" />
+    <file src="files/civilian/180.dff" />
+    <file src="files/civilian/181.txd" />
+    <file src="files/civilian/181.dff" />
+    <file src="files/civilian/182.txd" />
+    <file src="files/civilian/182.dff" />
+    <file src="files/civilian/183.txd" />
+    <file src="files/civilian/183.dff" />
+
+    <download_priority_group>-14</download_priority_group>
+</meta>

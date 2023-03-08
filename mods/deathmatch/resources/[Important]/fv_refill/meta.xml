@@ -1,0 +1,11 @@
+<meta>
+    <script src="global.lua" type="shared" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+    <export function="spawnVehMarker" type="client" />
+    
+    <file src="p.dff" />
+    <file src="p.txd" />
+    
+    <oop>true</oop>
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+    <script src="healC.lua" type="client" cache="false" />
+    <script src="healS.lua" type="server" />
+    
+    <script src="viszS.lua" type="server" />
+    
+    <script src="jailC.lua" type="client" cache="false" />
+    <script src="jailS.lua" type="server" />
+    
+    <file src="medic.png" />
+    <file src="jail.png" />
+    
+    <export function="jailTimer" type="server" />
+</meta>

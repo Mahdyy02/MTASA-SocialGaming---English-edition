@@ -1,0 +1,63 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="weaponC.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+    
+    <file src="files/bg.png" />
+    <file src="files/circle.png" />
+    
+    <file src="bone/bg.png" />
+    <file src="bone/injureLeftArm.png" />
+    <file src="bone/injureLeftFoot.png" />
+    <file src="bone/injureRightArm.png" />
+    <file src="bone/injureRightFoot.png" />
+    
+    <export function="getPlayerLevel" type="client" />
+    <export function="getResponsiveMultipler" type="client" />
+
+    <file src="weapons/0.png" />
+    <file src="weapons/1.png" />
+    <file src="weapons/2.png" />
+    <file src="weapons/3.png" />
+    <file src="weapons/4.png" />
+    <file src="weapons/5.png" />
+    <file src="weapons/6.png" />
+    <file src="weapons/7.png" />
+    <file src="weapons/8.png" />
+    <file src="weapons/10.png" />
+    <file src="weapons/11.png" />
+    <file src="weapons/12.png" />
+    <file src="weapons/14.png" />
+    <file src="weapons/15.png" />
+    <file src="weapons/16.png" />
+    <file src="weapons/17.png" />
+    <file src="weapons/18.png" />
+    <file src="weapons/22.png" />
+    <file src="weapons/23.png" />
+    <file src="weapons/24.png" />
+    <file src="weapons/26.png" />
+    <file src="weapons/27.png" />
+    <file src="weapons/28.png" />
+    <file src="weapons/29.png" />
+    <file src="weapons/30.png" />
+    <file src="weapons/31.png" />
+    <file src="weapons/32.png" />
+    <file src="weapons/33.png" />
+    <file src="weapons/34.png" />
+    <file src="weapons/35.png" />
+    <file src="weapons/36.png" />
+    <file src="weapons/37.png" />
+    <file src="weapons/38.png" />
+    <file src="weapons/39.png" />
+    <file src="weapons/40.png" />
+    <file src="weapons/41.png" />
+    <file src="weapons/42.png" />
+    <file src="weapons/43.png" />
+    <file src="weapons/44.png" />
+    <file src="weapons/45.png" />
+    <file src="weapons/46.png" />
+
+    <file src="files/overheat.mp3" />
+    
+        <min_mta_version server="1.3.0-9.04570"></min_mta_version>>
+</meta>

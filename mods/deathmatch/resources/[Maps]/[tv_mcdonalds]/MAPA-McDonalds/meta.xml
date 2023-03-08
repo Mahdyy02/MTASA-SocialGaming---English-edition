@@ -1,0 +1,6 @@
+<meta>
+    <info author="Duffzin" type="map" name="Mapa para o McDoanlds - Necessita do modelo" version="1.0"></info>
+    <map src="McDonalds.map" dimension="0"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

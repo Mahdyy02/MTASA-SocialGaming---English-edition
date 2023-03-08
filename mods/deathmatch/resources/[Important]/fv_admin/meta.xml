@@ -1,0 +1,22 @@
+<meta>
+	<script src="global.lua" type="shared" />
+    <script src="client.lua" type="client" />
+    <script src="statsC.lua" type="client" />
+    <script src="server.lua" type="server" />
+
+    <script src="adminhelpC.lua" type="client" />
+
+    <script src="adminjail/client.lua" type="client" />
+    <script src="adminjail/server.lua" type="server" />
+    
+    <export type="shared" function="getAdminTitle"/>
+    <export type="shared" function="getAdminColor"/>
+    <export type="shared" function="getAdminName"/>
+    <export type="shared" function="getAdminDuty"/>
+    <export type="shared" function="getAdminSyntax"/>   
+    <export type="server" function="sendMessageToAdmin"/>
+    <export type="server" function="adminJailTimer"/>
+
+    <export type="shared" function="addAdminCommand"/>   
+    <oop>true</oop>
+</meta>

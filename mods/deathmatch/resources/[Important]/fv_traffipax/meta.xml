@@ -1,0 +1,8 @@
+<meta>
+    <!--<script src="sourceC.lua" type="client" cache="false" />
+    <script src="lampC.lua" type="client" cache="false" /> -->
+    <script src="sourceS.lua" type="server" />
+    <!-- <file src="files/shutter.mp3" /> -->
+    
+    <oop>true</oop>
+</meta>

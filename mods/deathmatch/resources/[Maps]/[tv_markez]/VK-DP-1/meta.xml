@@ -1,0 +1,8 @@
+<meta>
+    <info author="TeiXeiraMTA" name="DFF" version="1.4.1" type="script" />
+    <script src="client.lua" type="client" />
+	
+    <file src="porta.col" />
+	<file src="porta.dff" />
+	<file src="porta.txd" />
+</meta>

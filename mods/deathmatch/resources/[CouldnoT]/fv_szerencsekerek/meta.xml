@@ -1,0 +1,14 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="global.lua" type="shared" cache="false" />
+    <script src="server.lua" type="server" />
+
+    <file src="files/wheel.dff" />
+    <file src="files/coins/5.png" />
+    <file src="files/coins/10.png" />
+    <file src="files/coins/100.png" />
+    <file src="files/coins/500.png" />
+    <file src="files/coins/1000.png" />
+    <file src="files/coins/2000.png" />
+    <file src="files/coins/5000.png" />
+</meta>

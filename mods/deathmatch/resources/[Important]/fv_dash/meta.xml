@@ -1,0 +1,104 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="bankC.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+    <script src="paydayS.lua" type="server" />
+    <script src="global.lua" type="shared" cache="false" />
+    
+    <file src="open.mp3" />
+    
+    <file src="icon.png" />
+    <file src="on.png" />
+    <file src="off.png" />
+    
+    <file src="icons/1.png" />
+    <file src="icons/2.png" />
+    <file src="icons/3.png" />
+    <file src="icons/4.png" />
+    <file src="icons/5.png" />
+    <file src="icons/6.png" />
+    
+    <file src="jobs/1.png" />
+    <file src="jobs/2.png" />
+    <file src="jobs/3.png" />
+    <file src="jobs/4.png" />
+    <file src="jobs/5.png" />
+    
+    <file src="faction/1.png" />
+    <file src="faction/2.png" />
+    <file src="faction/3.png" />
+    <file src="faction/4.png" />
+    <file src="faction/5.png" />
+    
+    <!-- SHADEREK -->
+    <script src="shaders/hd/hd.luac" type="client" />
+    <file src="shaders/hd/detail.fx" type="client" />
+    <file src="shaders/hd/detail04.png" type="client" />
+    <file src="shaders/hd/detail22.png" type="client" />
+    <file src="shaders/hd/detail29.png" type="client" />
+    <file src="shaders/hd/detail35T.png" type="client" />
+    <file src="shaders/hd/detail55.png" type="client" />
+    <file src="shaders/hd/detail58.png" type="client" />
+    <file src="shaders/hd/detail63.png" type="client" />
+    <file src="shaders/hd/detail68.png" type="client" />
+    <file src="shaders/hd/dirty.png" type="client" />
+    <file src="shaders/hd/mta-helper.fx" type="client" />
+    
+    <script src="shaders/vehicle/vehicle.luac" type="client" />
+    <file src="shaders/vehicle/fx/car_refgene.fx" />
+    <file src="shaders/vehicle/fx/car_refgrun.fx" />
+    <file src="shaders/vehicle/fx/mta-helper.fx" />
+    <file src="shaders/vehicle/images/smallnoise3d.dds" />
+    
+    <script src="shaders/water/c_water.luac" type="client" />
+    <file src="shaders/water/water.fx" type="client" />
+    <file src="shaders/water/mta-helper.fx" type="client" />
+    <file src="shaders/water/images/smallnoise3d.dds" type="client" />
+    <file src="shaders/water/images/cube_env256.dds" type="client" />
+    
+    <script src="shaders/sky/sky.luac" type="client" />
+    <file src="shaders/sky/models/skybox_model.dff" type="client" />
+    <file src="shaders/sky/models/skybox_model.txd" type="client" />
+    <file src="shaders/sky/shaders/shader_skydome.fx" type="client" />
+    <file src="shaders/sky/shaders/shader_null.fx" type="client" />
+    <file src="shaders/sky/textures/skydome.jpg" type="client" />
+    
+    
+    <export function="isIllegal" type="client" />
+    
+    <export function="isFaction" type="shared" />
+    <export function="isFactionLeader" type="shared" />
+    <export function="isRendvedelem" type="shared" />
+    
+    <export function="giveFactionMoney" type="server" />
+    <export function="getFactionName" type="server" />
+    
+    <script src="fixC.luac" type="client" cache="false" />
+    <file src="shader.fx" />
+    
+    <file src="sniper.png" />
+    <file src="cranes_dyn2.ws_finalbuild.png" />
+    
+    <file src="crosshairs/1.png" />
+    <file src="crosshairs/2.png" />
+    <file src="crosshairs/3.png" />
+    <file src="crosshairs/4.png" />
+    <file src="crosshairs/5.png" />
+    <file src="crosshairs/6.png" />
+    <file src="crosshairs/7.png" />
+    <file src="crosshairs/8.png" />
+    <file src="crosshairs/9.png" />
+    <file src="crosshairs/10.png" />
+    <file src="crosshairs/11.png" />
+    <file src="crosshairs/12.png" />
+    <file src="crosshairs/13.png" />
+    <file src="crosshairs/14.png" />
+    <file src="crosshairs/15.png" />
+    <file src="crosshairs/16.png" />
+    <file src="crosshairs/17.png" />
+    <file src="crosshairs/18.png" />
+    <file src="crosshairs/19.png" />
+    <file src="crosshairs/20.png" />
+    
+    <min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903"></min_mta_version>
+</meta>

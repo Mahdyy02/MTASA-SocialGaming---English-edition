@@ -1,0 +1,31 @@
+<meta>
+    <script src="utils.luac" type="client" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="tempomat.lua" type="client" cache="false" />
+    <script src="fp.lua" type="client" cache="false" />
+    
+    <script src="handbrake/handbrakeC.luac" type="client" cache="false" />
+    <script src="handbrake/handbrakeS.lua" type="server" />
+    
+    <file src="handbrake/bg.png" />
+    <file src="handbrake/vonal.png" />
+    <file src="handbrake/handbrake.wav" />
+    
+    <file src="images/speedobg.png" />
+    <file src="images/mutato.png" />
+    <file src="images/fuelbg.png" />
+    <file src="images/fuelvonal.png" />
+    <file src="images/fuelicon.png" />
+    <file src="images/nitrobg.png" />
+    <file src="images/nitrovonal.png" />
+    <file src="images/nitroicon.png" />
+    <file src="images/rpmbg.png" />
+    <file src="images/rpmmutato.png" />
+    <file src="icons/belt.png" />
+    <file src="icons/arrow_l.png" />
+    <file src="icons/arrow_r.png" />
+    <file src="icons/engine.png" />
+    <file src="icons/headlight.png" />
+    <file src="icons/handbrake.png" />
+    <file src="icons/locked.png" />
+</meta>

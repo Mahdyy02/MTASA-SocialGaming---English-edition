@@ -1,0 +1,11 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="damageC.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+    
+    <script src="bone/client.lua" type="client" cache="false" />
+    <script src="bone/server.lua" type="server" />
+    
+    <export function="startDead" type="client" />
+    <export function="reloadBones" type="client" />
+</meta>

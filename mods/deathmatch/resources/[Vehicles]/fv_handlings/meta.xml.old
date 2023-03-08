@@ -1,0 +1,5 @@
+<meta>
+    <script src="script.lua" type="server" />
+    <export function="loadHandling" type="server" />
+    <script src="protect.luac" type="shared"></script>
+</meta>

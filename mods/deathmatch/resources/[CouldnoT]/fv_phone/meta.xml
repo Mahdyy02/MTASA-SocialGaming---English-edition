@@ -1,0 +1,56 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="contact.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+    <script src="global.lua" type="shared" />
+    
+    <file src="bg.png" />
+    <file src="alsogeci.png" />
+    <file src="white.png" />
+    <file src="dark.png" />
+    
+    <file src="on.png" />
+    <file src="off.png" />
+    
+    <file src="accept.png" />
+    <file src="deny.png" />
+    
+    <file src="keypad.png" />
+    
+    <file src="light.ttf" />
+    
+    <file src="wallpapers/1.png" />
+    <file src="wallpapers/2.png" />
+    <file src="wallpapers/3.png" />
+    <file src="wallpapers/4.png" />
+    <file src="wallpapers/5.png" />
+    <file src="wallpapers/6.png" />
+    <file src="wallpapers/7.png" />
+    <file src="wallpapers/8.png" />
+    <file src="wallpapers/9.png" />
+    <file src="wallpapers/10.png" />
+    <file src="wallpapers/11.png" />
+    <file src="wallpapers/12.png" />
+    <file src="wallpapers/13.png" />
+    <file src="wallpapers/14.png" />
+    
+    <file src="apps/ad.png" />
+    <file src="apps/calendar.png" />
+    <file src="apps/call.png" />
+    <file src="apps/camera.png" />
+    <file src="apps/contact.png" />
+    <file src="apps/images.png" />
+    <file src="apps/mail.png" />
+    <file src="apps/map.png" />
+    <file src="apps/settings.png" />
+    <file src="apps/sms.png" />
+    <file src="apps/time.png" />
+    <file src="apps/weather.png" />
+    <file src="apps/store.png" />
+    <file src="apps/book.png" />
+    <file src="apps/note.png" />
+    <file src="apps/wallet.png" />
+    <file src="apps/tor.png" />
+    
+    <export function="newPhone" type="server" />
+</meta>

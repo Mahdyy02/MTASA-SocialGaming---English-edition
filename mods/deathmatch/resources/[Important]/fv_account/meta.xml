@@ -1,0 +1,11 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+    
+    <file src="height.png" />
+    <file src="icon.png" />
+    <file src="boom.mp3" />
+    <file src="zenecske.mp3" />
+
+    <download_priority_group>-99</download_priority_group>
+</meta>

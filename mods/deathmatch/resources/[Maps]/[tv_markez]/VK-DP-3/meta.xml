@@ -1,0 +1,30 @@
+<meta>
+    <info author="Hawk And Silva" name="LojinhaAssaltos" version="1.0" type="script" />
+    <script src="client.lua" type="client" />
+	<file src="casa.dff" />
+        <file src="casa.txd" />
+        <file src="casa.col" />
+        <file src="casa1.dff" />
+        <file src="casa1.txd" />
+        <file src="casa2.txd" />
+        <file src="casa1.col" />
+        <file src="Delegacia/1.txd" />
+        <file src="Delegacia/1.dff" />
+        <file src="Delegacia/1.col" />
+                <file src="Delegacia/2.txd" />
+        <file src="Delegacia/2.dff" />
+        <file src="Delegacia/2.col" />
+        <file src="Delegacia/3.dff" />
+        <file src="Delegacia/3.col" />
+        <file src="Delegacia/3.txd" />
+        <file src="Delegacia/4.dff" />
+        <file src="Delegacia/4.col" />
+                <file src="Delegacia/5.txd" />
+                <file src="Delegacia/6.txd" />
+        <file src="Delegacia/5.dff" />
+        <file src="Delegacia/5.col" />
+
+	
+	
+	
+</meta>

@@ -1,0 +1,9 @@
+<meta>
+    <download_priority_group>-44</download_priority_group>
+    
+    <file src="Roboto-Regular.ttf" />
+    <script type="server" src="sourceS.lua" />
+    <script type="client" src="sourceC.lua" cache="false" />
+
+    <min_mta_version client="1.5.5" server="1.5.5" />
+</meta>

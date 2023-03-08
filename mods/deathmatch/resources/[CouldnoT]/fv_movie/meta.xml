@@ -1,0 +1,14 @@
+<meta>
+	<min_mta_version server="1.5.2-9.07879" client="1.5.2-9.07879"/>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server"/>
+
+	<file src="screen.dff" />
+	<file src="screen.txd" />
+	<file src="screen.col" />
+	<file src="screen.fx" />
+
+	<map src="fv_movie.map" dimension="0"></map>
+	<script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" cache="false"></script>
+</meta>

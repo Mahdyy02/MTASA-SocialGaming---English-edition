@@ -1,0 +1,35 @@
+<meta>
+    <script src="object.luac" type="client" />
+    
+    <file src="texture.txd" />
+    
+    <file src="deli.dff" />
+    <file src="deli.col" />
+    
+    <file src="trafi.dff" />
+    <file src="trafi.col" />
+    
+    <file src="atm.dff" />
+    <file src="atm.col" />
+    
+    <file src="vh.dff" />
+    <file src="vh.col" />
+    
+    <file src="zebra.dff" />
+    <file src="zebra.col" />
+    
+    <file src="fr.dff" />
+    <file src="fr.col" />
+    
+    <file src="tuning.dff" />
+    <file src="tuning.col" />
+    
+    <file src="plaza.dff" />
+    <file src="plaza.col" />
+    
+    <file src="fix.dff" />
+    <file src="fix.col" />
+    
+    <file src="delialap.dff" />
+    <file src="delialap.col" />
+</meta>

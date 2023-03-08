@@ -1,0 +1,83 @@
+<meta>
+    <!-- Scripts -->
+    <script src="icons/client.lua" type="client"/>
+    
+    <script src="global.lua" type="shared" cache="false"/>
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server"/>
+
+    <!-- Custom ElementData 
+	<export function="setData" type="shared" />
+	<export function="getData" type="shared" />
+	<export function="getDataName" type="shared" />
+                   -->
+    <export function="getKey" type="shared" />
+
+
+    <export type="server" function="getConnection"/>
+	
+	<!-- Exports -->
+    <export function="getVersion" type="shared"/>
+	<export function="getServerColor" type="shared"/>
+	<export function="getServerData" type="shared"/>
+    <export function="takeMoney" type="shared"/>
+    <export function="hasMoney" type="shared"/>
+    <export function="giveMoney" type="shared"/>
+	<export function="getFont" type="client"/>
+    <export function="shadowedText" type="client"/>
+    <export function="createBlur" type="client"/>
+	<export function="dxCreateBorder" type="client"/>
+    <export function="drawlogo" type="client"/>
+    <export function="roundedRectangle" type="client"/>
+    <export function="linedRectangle" type="client"/>
+    <export function="setElementData" type="shared"/>
+    <export function="removeElementData" type="shared"/>
+	<export function="isInSlot" type="client"/>
+	<export function="isInBox" type="client"/>
+    <export function="getIcon" type="client"/>
+    <export function="getCursorPosition" type="client"/>
+    <export function="convertJobIDtoName" type="shared"/>
+	<export function="getTimeStringByNumber" type="shared"/>
+    <export function="sendMessageToAdmin" type="shared"/>
+    <export function="getRealTimeForIPB" type="shared"/>
+	<export function="getServerSyntax" type="shared"/>
+    <export function="math.round" type="shared"/>
+    <export function="stringInsert" type="shared"/>
+    <export function="split" type="shared"/>
+    <export function="modifyString" type="shared"/>
+    <export function="addCommandHandler" type="shared"/>
+    <export function="getTreeCentre" type="shared"/>
+    <export function="getTreeStart" type="shared"/>
+    <export function="getTreeEnd" type="shared"/>
+    <export function="getRealGroundPosition" type="shared"/>
+    <export function="createRandomMaleName" type="shared"/>
+    <export function="table.val_to_str" type="shared"/>
+    <export function="table.key_to_str" type="shared"/>
+    <export function="table.tostring" type="shared"/>
+    <export function="smoothMoveCamera" type="client"/>
+    <export function="stopSmoothMoveCamera" type="client"/>
+    <export function="removeCamHandler" type="client"/>
+    <export function="getWaters" type="client"/>
+    <export function="getFonts" type="client"/>
+    <export function="getIcons" type="client"/>
+	<export function="getMinScreenSize" type="shared"/>
+    <export function="getElementType" type="shared"/>
+    <export function="getElementID" type="shared"/>
+    <export function="getElementIDName" type="shared"/>
+    <export function="getPlayerDeveloper" type="shared"/>
+    <export function="roundedRectangle" type="client"/>
+    <export function="findPlayer" type="shared"/>
+    <export function="toFloor" type="shared"/>
+    <export function="thousandsStepper" type="shared"/>
+	
+	<!-- Fonts -->
+	<file src="files/fonts/Yantramanav-Regular.ttf"/>
+    <file src="files/fonts/Yantramanav-Black.ttf"/>
+	<file src="files/fonts/gotham_light.ttf"/>
+	<file src="files/fonts/Roboto.ttf"/>
+    <file src="files/fonts/FontAwesome.ttf"/>
+    <file src="files/fonts/rage.ttf"/>
+    <file src="files/logo.png"/>
+    
+    <min_mta_version client="1.3.4-0.00000" server="1.3.4-0.00000"></min_mta_version>
+</meta>

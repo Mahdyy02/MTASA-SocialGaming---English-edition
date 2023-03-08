@@ -1,0 +1,12 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="global.lua" type="shared" cache="false" />
+    <script src="server.lua" type="server" />
+
+    <script src="weaponShopC.lua" type="client" cache="false" />
+
+    <file src="img/1.png" />
+    <file src="img/2.png" />
+
+    <file src="sign.ttf" />
+</meta>

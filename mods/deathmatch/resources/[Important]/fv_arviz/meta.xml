@@ -1,0 +1,13 @@
+<meta>
+	<info author="Markuu" version="1.1.7" name="Tsunami" decription="Flood" type="script" />
+	<script src="water_gui.lua" type="client" />
+	<script src="water_level.lua" type="server" />
+        <script src="radar.png" type="server" />
+
+	<settings>
+		<setting name="*speed" value="0.01" />
+		<setting name="*allow_negative" value="true" />
+		<setting name="*flood_weather" value="8" />
+		<setting name="*flood_end_weather" value="14" />
+     </settings>
+</meta>

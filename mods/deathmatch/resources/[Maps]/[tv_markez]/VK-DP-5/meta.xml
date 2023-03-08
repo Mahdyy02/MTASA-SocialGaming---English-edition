@@ -1,0 +1,5 @@
+<meta>
+	<info author="~#3k Mapper" version="1.0.0" type="script" name="Textura" description="https://facebook.com/3kMapper/" showInResourceBrowser="true" />
+	<script src="jeetdor.lua" type="client" />
+	<file src="jeetdor.txd" />
+</meta>

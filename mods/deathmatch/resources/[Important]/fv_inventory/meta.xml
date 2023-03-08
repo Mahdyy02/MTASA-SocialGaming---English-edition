@@ -1,0 +1,294 @@
+<meta>
+    <script src="async.lua" type="shared" />
+    <script src="itemG.lua" type="shared" cache="false" />
+    <script src="itemC.lua" type="client" cache="false" />
+    <script src="itemS.lua" type="server" />
+
+    <script src="trashC.lua" type="client" cache="false" />
+    <script src="trashS.lua" type="server" />
+
+    <script src="reloadC.lua" type="client" cache="false" />
+    <script src="reloadS.lua" type="server" />
+
+    <script src="safeC.lua" type="client" cache="false" />
+    <script src="safeS.lua" type="server" />
+
+    <script src="vehicleS.lua" type="server" />
+
+    <script src="hifiC.lua" type="client" cache="false" />
+
+    <script src="useItemC.lua" type="client" cache="false" /> 
+    <script src="useItemS.lua" type="server" />
+
+    <script src="itemlistC.lua" type="client" cache="false" />
+
+    <script src="pedVoiceC.lua" type="client" cache="false" />
+
+    <script src="weaponC.lua" type="client" cache="false" />
+    <script src="weaponS.lua" type="server" />
+    <file src="weapons/axe.dff" />
+    <file src="weapons/axe.txd" />
+    <file src="weapons/pickaxe.dff" />
+    <file src="weapons/pickaxe.txd" />
+    <file src="weapons/fishingrod.dff" />
+    <file src="weapons/fishingrod.txd" />
+    <file src="weapons/taser.txd" />
+    <file src="weapons/taser.dff" />
+    <file src="weapons/tasereffect.mp3" />
+
+
+    <script src="detectorC.lua" type="client" cache="false" />
+    <script src="detectorS.lua" type="server" />
+
+    <script src="taserC.lua" type="client" cache="false" />
+    <script src="taserS.lua" type="server" />
+
+    <export function="getItemImage" type="client" />
+    <export function="setskin" type="client" />
+    <export function="givePlayerItem" type="server" />
+    <export function="takeDutyItems" type="server" />
+    <export function="takePlayerItem" type="server" />
+    <export function="hasPhone" type="server" />
+    <export function="getItems" type="server" />
+    <export function="takePlayerWeapon" type="server" />
+    <export function="setItemID" type="server" />
+    <export function="hasItem" type="shared" />
+    <export function="getItemName" type="shared" />
+    <export function="isCrafting" type="client" />
+    <export function="isInventoryOpen" type="client" />
+
+    <file src="icons/bag.png" />
+    <file src="icons/eye.png" />
+    <file src="icons/key.png" />
+    <file src="icons/wallet.png" />
+    <file src="icons/craft.png" />
+    <file src="icons/no.png" />
+    <file src="icons/safe.png" />
+    <file src="icons/vehicle.png" />
+    <file src="icons/left.png" />
+    <file src="icons/right.png" />
+    <file src="icons/used.png" />
+    <file src="icons/usedAmmo.png" />
+
+    <file src="itemKepek/1.png" />
+    <file src="itemKepek/2.png" />
+    <file src="itemKepek/3.png" />
+    <file src="itemKepek/4.png" />
+    <file src="itemKepek/5.png" />
+    <file src="itemKepek/6.png" />
+    <file src="itemKepek/7.png" />
+    <file src="itemKepek/8.png" />
+    <file src="itemKepek/9.png" />
+    <file src="itemKepek/10.png" />
+    <file src="itemKepek/11.png" />
+    <file src="itemKepek/12.png" />
+    <file src="itemKepek/13.png" />
+    <file src="itemKepek/14.png" />
+    <file src="itemKepek/15.png" />
+    <file src="itemKepek/16.png" />
+    <file src="itemKepek/17.png" />
+    <file src="itemKepek/18.png" />
+    <file src="itemKepek/19.png" />
+    <file src="itemKepek/20.png" />
+    <file src="itemKepek/21.png" />
+    <file src="itemKepek/22.png" />
+    <file src="itemKepek/23.png" />
+    <file src="itemKepek/24.png" />
+    <file src="itemKepek/25.png" />
+    <file src="itemKepek/26.png" />
+    <file src="itemKepek/27.png" />
+    <file src="itemKepek/28.png" />
+    <file src="itemKepek/29.png" />
+    <file src="itemKepek/30.png" />
+    <file src="itemKepek/31.png" />
+    <file src="itemKepek/32.png" />
+    <file src="itemKepek/33.png" />
+    <file src="itemKepek/34.png" />
+    <file src="itemKepek/35.png" />
+    <file src="itemKepek/36.png" />
+    <file src="itemKepek/37.png" />
+    <file src="itemKepek/38.png" />
+    <file src="itemKepek/39.png" />
+    <file src="itemKepek/40.png" />
+    <file src="itemKepek/41.png" />
+    <file src="itemKepek/42.png" />
+    <file src="itemKepek/43.png" />
+    <file src="itemKepek/44.png" />
+    <file src="itemKepek/45.png" />
+    <file src="itemKepek/46.png" />
+    <file src="itemKepek/47.png" />
+    <file src="itemKepek/48.png" />
+    <file src="itemKepek/49.png" />
+    <file src="itemKepek/50.png" />
+    <file src="itemKepek/51.png" />
+    <file src="itemKepek/52.png" />
+    <file src="itemKepek/53.png" />
+    <file src="itemKepek/54.png" />
+    <file src="itemKepek/55.png" />
+    <file src="itemKepek/56.png" />
+    <file src="itemKepek/57.png" />
+    <file src="itemKepek/58.png" />
+    <file src="itemKepek/59.png" />
+    <file src="itemKepek/60.png" />
+    <file src="itemKepek/61.png" />
+    <file src="itemKepek/62.png" />
+    <file src="itemKepek/63.png" />
+    <file src="itemKepek/64.png" />
+    <file src="itemKepek/65.png" />
+    <file src="itemKepek/66.png" />
+    <file src="itemKepek/67.png" />
+    <file src="itemKepek/68.png" />
+    <file src="itemKepek/69.png" />
+    <file src="itemKepek/70.png" />
+    <file src="itemKepek/71.png" />
+    <file src="itemKepek/72.png" />
+    <file src="itemKepek/73.png" />
+    <file src="itemKepek/74.png" />
+    <file src="itemKepek/75.png" />
+    <file src="itemKepek/76.png" />
+    <file src="itemKepek/77.png" />
+    <file src="itemKepek/78.png" />
+    <file src="itemKepek/79.png" />
+    <file src="itemKepek/80.png" />
+    <file src="itemKepek/81.png" />
+    <file src="itemKepek/82.png" />
+    <file src="itemKepek/83.png" />
+    <file src="itemKepek/84.png" />
+    <file src="itemKepek/85.png" />
+    <file src="itemKepek/86.png" />
+    <file src="itemKepek/87.png" />
+    <file src="itemKepek/88.png" />
+    <file src="itemKepek/89.png" />
+    <file src="itemKepek/90.png" />
+    <file src="itemKepek/91.png" />
+    <file src="itemKepek/92.png" />
+    <file src="itemKepek/93.png" />
+    <file src="itemKepek/94.png" />
+    <file src="itemKepek/95.png" />
+    <file src="itemKepek/96.png" />
+    <file src="itemKepek/97.png" />
+    <file src="itemKepek/98.png" />
+    <file src="itemKepek/99.png" />
+    <file src="itemKepek/100.png" />
+    <file src="itemKepek/101.png" />
+    <file src="itemKepek/102.png" />
+    <file src="itemKepek/103.png" />
+    <file src="itemKepek/104.png" />
+    <file src="itemKepek/105.png" />
+    <file src="itemKepek/106.png" />
+    <file src="itemKepek/107.png" />
+    <file src="itemKepek/108.png" />
+    <file src="itemKepek/109.png" />
+    <file src="itemKepek/110.png" />
+    <file src="itemKepek/111.png" />
+    <file src="itemKepek/112.png" />
+    <file src="itemKepek/113.png" />
+    <file src="itemKepek/114.png" />
+    <file src="itemKepek/115.png" />
+    <file src="itemKepek/116.png" />
+    <file src="itemKepek/117.png" />
+
+    <file src="itemKepek/118.png" />
+    <file src="itemKepek/119.png" />
+    <file src="itemKepek/120.png" />
+    <file src="itemKepek/121.png" />
+
+    <file src="itemKepek/122.png" />
+    <file src="itemKepek/123.png" />
+    <file src="itemKepek/124.png" />
+    <file src="itemKepek/125.png" />
+    <file src="itemKepek/126.png" />
+    <file src="itemKepek/127.png" />
+    
+    <file src="itemKepek/128.png" />
+    <file src="itemKepek/129.png" />
+    <file src="itemKepek/130.png" />
+    <file src="itemKepek/131.png" />
+    <file src="itemKepek/132.png" />
+    <file src="itemKepek/133.png" />
+    <file src="itemKepek/134.png" />
+    <file src="itemKepek/135.png" />
+    <file src="itemKepek/136.png" />
+    <file src="itemKepek/137.png" />
+    <file src="itemKepek/138.png" />
+    <file src="itemKepek/139.png" />
+    <file src="itemKepek/140.png" />
+    <file src="itemKepek/141.png" />
+    <file src="itemKepek/142.png" />
+    <file src="itemKepek/143.png" />
+    <file src="itemKepek/144.png" />
+    <file src="itemKepek/145.png" /> 
+
+    <file src="itemKepek/unknown.png" />
+
+    <!-- Masks -->
+    <file src="object/mask_devil.txd"/> 
+    <file src="object/mask_devil.dff"/> 
+
+    <file src="object/mask_guyfawkes.txd"/> 
+    <file src="object/mask_guyfawkes.dff"/>
+
+    <file src="object/mask_darthvader.txd"/>    
+    <file src="object/mask_darthvader.dff"/>
+
+    <file src="object/bordobereli.txd"/> 
+    <file src="object/bordobereli.dff"/>
+
+    <file src="object/hat_cowboy.txd"/> 
+    <file src="object/hat_cowboy.dff"/>
+
+    <file src="object/mask_alien.txd"/> 
+    <file src="object/mask_alien.dff"/>
+
+    <file src="object/mask_cat.txd"/> 
+    <file src="object/mask_cat.dff"/>
+
+    <file src="object/mask_dog.txd"/> 
+    <file src="object/mask_dog.dff"/>
+
+    <file src="object/mask_baby.txd"/> 
+    <file src="object/mask_baby.dff"/>
+
+    <file src="object/mask_monkey.txd"/> 
+    <file src="object/mask_monkey.dff"/>
+
+    <file src="object/mask_owl.txd"/> 
+    <file src="object/mask_owl.dff"/>
+
+    <file src="object/mask_raccoon.txd"/> 
+    <file src="object/mask_raccoon.dff"/>
+
+    <file src="object/mask_skull.txd"/> 
+    <file src="object/mask_skull.dff"/>
+
+    <file src="object/mask_vampire.txd"/> 
+    <file src="object/mask_vampire.dff"/>
+
+    <file src="object/mask_zombie.txd"/> 
+    <file src="object/mask_zombie.dff"/>
+
+    <file src="object/mask_monster.txd"/> 
+    <file src="object/mask_monster.dff"/>
+
+    <file src="object/mask_gas.txd"/> 
+    <file src="object/mask_gas.dff"/>
+
+    <file src="object/mask_fox.txd"/> 
+    <file src="object/mask_fox.dff"/>
+
+    <file src="object/mask_bag.txd"/> 
+    <file src="object/mask_bag.dff"/>
+
+    <file src="object/admin.txd"/> 
+    <file src="object/admin.dff"/>
+
+    <file src="object/celikyelek.txd"/> 
+    <file src="object/celikyelek.dff"/>
+
+    <file src="object/celikyelek2.txd"/> 
+    <file src="object/celikyelek2.dff"/>
+
+    <file src="object/celikyelek3.txd"/> 
+    <file src="object/celikyelek3.dff"/>
+
+</meta>

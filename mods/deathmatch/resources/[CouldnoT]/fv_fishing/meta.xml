@@ -1,0 +1,13 @@
+<meta>
+    <script src="async.lua" type="shared" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="minigameC.lua" type="client" cache="false" />
+    <script src="global.lua" type="shared" cache="false" />
+    <script src="server.lua" type="server" />
+
+    <file src="files/arch.png" />
+    <file src="files/loadOff.png" />
+    <file src="files/loadFull.png" />
+    <file src="files/pointer.png" />
+    <file src="files/sound.mp3" />
+</meta>

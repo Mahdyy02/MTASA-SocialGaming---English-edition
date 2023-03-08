@@ -1,0 +1,38 @@
+<meta>
+    <script src="async.lua" type="shared" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="global.lua" type="shared" cache="false" />
+    <script src="server.lua" type="server" />
+
+    <script src="effectsC.lua" type="client" cache="false" />
+    <script src="drunkC.lua" type="client" cache="false" />
+
+    <file src="sharpen.fx" />
+
+    <file src="sounds/heart.mp3" />
+    <file src="sounds/lsd1.wav" />
+    <file src="sounds/lsd2.mp3" />
+    <file src="sounds/lsd3.mp3" />
+    <file src="sounds/lsd4.mp3" />
+    <file src="sounds/lsd5.mp3" />
+
+
+    <file src="models/kokacserje.dff" />
+    <file src="models/kokacserje.txd" />
+    <file src="models/mak.dff" />
+    <file src="models/mak.txd" />
+    <file src="models/marihuana.dff" />
+    <file src="models/marihuana.txd" />
+
+    <file src="models/cserep.dff" />
+
+    <file src="models/kanna.dff" />
+    <file src="models/kanna.txd" />
+
+    <export function="enableMar" type="client"/>
+    <export function="disableMar" type="client"/>
+    <export function="enableLSD" type="client"/>
+    <export function="disableLSD" type="client"/>
+    <export function="enableAmf" type="client"/>
+    <export function="disableAmf" type="client"/>
+</meta>

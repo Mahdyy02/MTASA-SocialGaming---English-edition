@@ -1,0 +1,14 @@
+<meta>
+    <script src="utils.luac" type="client" />
+    <script src="afk.luac" type="client" />
+    <script src="client.lua" type="client" cache="false" />
+    
+    <file src="icons/afk.png" />
+    <file src="icons/pm.png" />
+    <file src="icons/cuff.png" />
+    <file src="icons/duty.png" />
+    <file src="icons/taser.png" />
+    <file src="icons/collapsed.png" />
+
+    <file src="alien.ttf" />
+</meta>

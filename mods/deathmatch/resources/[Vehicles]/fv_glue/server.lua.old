@@ -1,0 +1,15 @@
+	
+--SocialGaming 2019
+--Scriptet Írta: Csoki
+addEvent("gluePlayer",true);
+addEventHandler("gluePlayer",getRootElement(),function(player,slot, vehicle, x, y, z, rotX, rotY, rotZ)
+	attachElementToElement(source, vehicle, x, y, z, rotX, rotY, rotZ);
+	setPlayerWeaponSlot(source, slot);
+	setElementData(player,"glue",vehicle);
+end);
+
+addEvent("ungluePlayer",true);
+addEventHandler("ungluePlayer",root,function(player)
+	detachElementFromElement(player);
+	setElementData(player,"glue",false);
+end);

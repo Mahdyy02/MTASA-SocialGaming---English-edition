@@ -1,0 +1,23 @@
+<!--
+********************************************************************************
+	Project owner:		RageQuit community
+	Project name: 		GTW-RPG
+	Developers:   		Mr_Moose
+
+	Source code:		https://github.com/404rq/GTW-RPG/
+	Bugtracker: 		https://discuss.404rq.com/t/issues
+	Suggestions:		https://discuss.404rq.com/t/development
+
+	Version:    		Open source
+	License:    		BSD 2-Clause
+	Status:     		Stable release
+********************************************************************************
+-->
+
+<meta>
+    <info author="GTWGames" name="GTWtrain" description="Add trains to the reailroads around SA, game mod for MTA SA" type="script" version="93"></info>
+    <script src="data.lua" type="shared"></script>
+    <!--<script src="train-s.lua" type="server"></script>-->
+    <script src="train_c.lua" type="client"></script>
+    <script src="train_s.lua" type="server"></script>
+</meta>

@@ -1,0 +1,21 @@
+<meta>
+    <script src="async.luac" type="shared" />
+    
+    <script src="client.lua" type="client" cache="false" />
+    <script src="global.luac" type="shared" />
+    <script src="server.lua" type="server" />
+    
+    <script src="elevatorC.lua" type="client" cache="false"  />
+    <script src="elevatorS.lua" type="server" />
+    
+    <file src="files/1.png" />
+    <file src="files/2.png" />
+    <file src="files/3.png" />
+    <file src="files/4.png" />
+    <file src="files/elevator.png" />
+    
+    <script src="custom/createObject.luac" type="client" />
+    <script src="custom/trailer.luac" type="client" />
+    <script src="custom/smallwarehouse.luac" type="client" />
+    <script src="custom/restroom.luac" type="client" />
+</meta>

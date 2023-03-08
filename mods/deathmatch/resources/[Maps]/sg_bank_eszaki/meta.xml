@@ -1,0 +1,20 @@
+<meta>
+    <oop>true</oop>
+    <script src="Kliens.luac" type="client" />
+    
+    <file src="models/bank.dff" />
+    <file src="models/bank.txd" /> 
+    <file src="models/bank.col" /> 
+    <file src="models/eszaki.dff" />
+    <file src="models/eszaki.txd" />
+    <file src="models/eszaki.col" />
+    
+    <info type="map" version="1.0.0"></info>
+    <map src="bank.map" dimension="0"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.luac" type="client" validate="false"></script>
+    
+    
+    
+    
+</meta>

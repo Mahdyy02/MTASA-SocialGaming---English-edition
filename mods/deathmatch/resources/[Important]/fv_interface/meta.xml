@@ -1,0 +1,69 @@
+<meta>
+    <script src="client.lua" type="client"/>
+    
+    <file src="blackWhiteBlur.fx" />
+
+    <script src="newhud/client.lua" type="client" cache="false" />
+    <file src="newhud/circle.png" />
+
+    <script src="hud/client.lua" type="client" cache="false" />
+    <script src="hud/staminaC.lua" type="client" cache="false" />
+    <script src="hud/levelC.lua" type="client" cache="false" />
+    <export function="getPlayerLevel" type="client" />
+    <file src="hud/bg.png" />
+    <file src="hud/circle.png" />
+
+    <script src="widgets/client.lua" type="client" cache="false" />
+    <script src="widgets/server.lua" type="server" />
+    <file src="widgets/bone/bg.png" />
+    <file src="widgets/bone/injureLeftArm.png" />
+    <file src="widgets/bone/injureLeftFoot.png" />
+    <file src="widgets/bone/injureRightArm.png" />
+    <file src="widgets/bone/injureRightFoot.png" />
+    <file src="widgets/gtaFont.ttf" />
+
+    <file src="widgets/weapons/0.png" />
+    <file src="widgets/weapons/1.png" />
+    <file src="widgets/weapons/2.png" />
+    <file src="widgets/weapons/3.png" />
+    <file src="widgets/weapons/4.png" />
+    <file src="widgets/weapons/5.png" />
+    <file src="widgets/weapons/6.png" />
+    <file src="widgets/weapons/7.png" />
+    <file src="widgets/weapons/8.png" />
+    <file src="widgets/weapons/10.png" />
+    <file src="widgets/weapons/11.png" />
+    <file src="widgets/weapons/12.png" />
+    <file src="widgets/weapons/14.png" />
+    <file src="widgets/weapons/15.png" />
+    <file src="widgets/weapons/16.png" />
+    <file src="widgets/weapons/17.png" />
+    <file src="widgets/weapons/18.png" />
+    <file src="widgets/weapons/22.png" />
+    <file src="widgets/weapons/23.png" />
+    <file src="widgets/weapons/24.png" />
+    <file src="widgets/weapons/26.png" />
+    <file src="widgets/weapons/27.png" />
+    <file src="widgets/weapons/28.png" />
+    <file src="widgets/weapons/29.png" />
+    <file src="widgets/weapons/30.png" />
+    <file src="widgets/weapons/31.png" />
+    <file src="widgets/weapons/32.png" />
+    <file src="widgets/weapons/33.png" />
+    <file src="widgets/weapons/34.png" />
+    <file src="widgets/weapons/35.png" />
+    <file src="widgets/weapons/36.png" />
+    <file src="widgets/weapons/37.png" />
+    <file src="widgets/weapons/38.png" />
+    <file src="widgets/weapons/39.png" />
+    <file src="widgets/weapons/40.png" />
+    <file src="widgets/weapons/41.png" />
+    <file src="widgets/weapons/42.png" />
+    <file src="widgets/weapons/43.png" />
+    <file src="widgets/weapons/44.png" />
+    <file src="widgets/weapons/45.png" />
+    <file src="widgets/weapons/46.png" />
+    <file src="widgets/overheat.mp3" />
+
+    <min_mta_version server="1.3.0-9.04570"></min_mta_version>>
+</meta>

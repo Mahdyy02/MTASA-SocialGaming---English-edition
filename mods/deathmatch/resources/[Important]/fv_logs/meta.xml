@@ -1,0 +1,6 @@
+<meta>
+    <script src="client.luac" type="client" cache="false" validate="true" />
+    <script src="server.lua" type="server" validate="true" />
+    <export function="createLog" type="shared" http="false" />
+    <export function="deleteLog" type="shared" http="false" />
+</meta>

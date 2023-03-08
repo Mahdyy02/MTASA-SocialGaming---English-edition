@@ -1,0 +1,32 @@
+<meta>
+    <!--SA-MP Objects -->
+    <script src="object.lua" type="client" cache="false" />
+    <file src="All_walls.txd" />
+    <file src="ConcreteStair1.col" />
+    <file src="ConcreteStair1.dff" />
+    <file src="ConcreteBits.txd" />
+    <file src="GTASAMap1.dff" />
+    <file src="GTASAMap1.col" />
+    <file src="GTASAMaps.txd" />
+    <file src="SAMPPicture1.dff" />
+    <file src="SAMPPicture1.col" />
+    <file src="SAMPPictures.txd" />
+    <file src="SpeedCamera1.dff" />
+    <file src="SpeedCamera1.col" />
+    <file src="wall027.dff" />
+    <file src="wall027.col" />
+    <file src="wall036.dff" />
+    <file src="wall036.col" />
+    <file src="wall068.dff" />
+    <file src="wall068.col" />
+    <file src="wall071.dff" />
+    <file src="wall071.col" />
+    <file src="wall073.dff" />
+    <file src="wall073.col" />
+    <file src="wall087.dff" />
+    <file src="wall087.col" />
+    <file src="wall090.dff" />
+    <file src="wall090.col" />
+    <file src="wall094.dff" />
+    <file src="wall094.col" />
+</meta>

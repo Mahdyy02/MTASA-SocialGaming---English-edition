@@ -1,0 +1,7 @@
+<meta>
+    <script type="shared" cache="false" src="sourceG.luac" />
+    <script type="server" src="sourceS.lua" />
+    
+    <export type="shared" function="applyCustomHandling" />
+    <export type="server" function="loadHandling" />
+</meta>

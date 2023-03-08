@@ -1,0 +1,8 @@
+<meta>
+    <script src="sourceG.lua" type="shared"/>
+    <script src="sourceC.lua" type="client"/>
+    <script src="sourceS.lua" type="server"/>
+
+    <file src="files/changer.fx"/>
+    <file src="files/ws_rollerdoor_fire.png"/>
+</meta>

@@ -1,0 +1,8 @@
+<meta>
+    <info author="BewerySCR" name="DFF" version="1.4.1" type="script" />
+    <script src="client.lua" type="client" />
+	<file src="chaoverde.col" />
+	<file src="chaoverde.dff" />
+	<file src="chaoverde.txd" />
+	
+</meta>

@@ -1,0 +1,10 @@
+<meta>
+    <script src="global.lua" type="shared" />
+    <script src="client.lua" type="client" />
+    <script src="dutySkinC.lua" type="client" />
+    <script src="server.lua" type="server" />
+    
+    <file src="icons/duty.png" />
+    
+    <export function="setDutySkin" type="client" />
+</meta>

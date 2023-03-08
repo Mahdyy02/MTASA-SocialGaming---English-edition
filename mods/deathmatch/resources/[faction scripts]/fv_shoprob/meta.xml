@@ -1,0 +1,10 @@
+<meta>
+    
+    <file src="bg.png" />
+    <file src="money.png" />
+
+    <script src="client.lua" type="client" />
+    <script src="global.lua" type="global" />
+    <script src="server.lua" type="server" />
+
+</meta>

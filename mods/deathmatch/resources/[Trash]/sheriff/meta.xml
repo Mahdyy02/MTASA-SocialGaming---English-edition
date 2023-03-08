@@ -1,0 +1,9 @@
+<meta>
+    <script src="sourceC.lua" type="client"/>
+    <files src="sd.txd"/>
+    <files src="sd.dff"/>
+    <files src="sd_lod.dff"/>
+    <files src="sd_lod.txd"/>
+
+    <download_priority_group>999999999999999999</download_priority_group>
+</meta>

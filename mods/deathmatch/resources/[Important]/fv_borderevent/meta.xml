@@ -1,0 +1,5 @@
+<meta>
+	<script src="codeG.lua" type="shared"/>
+	<script src="codeC.lua" type="client"/>
+	<script src="codeS.lua" type="server"/>
+ </meta>

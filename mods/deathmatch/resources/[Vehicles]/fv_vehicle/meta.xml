@@ -1,0 +1,30 @@
+<meta>
+    <min_mta_version client="1.5.0" server="1.5.0" />
+
+    <script src="global.lua" type="shared" cache="false" />
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" cache="false" />
+
+    <script src="commandS.lua" type="server" />
+    <script src="kiszedS.lua" type="server" />
+    <script src="floodC.lua" type="client" cache="false" />
+    <script src="doorC.lua" type="client" cache="false" />
+
+    <file src="files/doors.png" />
+    <file src="files/arrow.png" />
+
+    <file src="files/lockin.ogg" />
+    <file src="files/lockout.ogg" />
+    <file src="files/starter.ogg" />
+    <file src="files/lightswitch.ogg" />
+    <file src="files/seatbeltoff.ogg" />
+    <file src="files/seatbelton.ogg" />
+    <file src="files/seatbelt.wav" />
+
+    <export function="getVehicleSpeed" type="shared" />
+    <export function="isBike" type="shared" />
+    <export function="addVehicle" type="server" />
+    <export function="slowLoad" type="server" />
+    <export function="startSlowLoad" type="server" />
+    <export function="addVehicle" type="server" />
+</meta>

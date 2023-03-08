@@ -1,0 +1,40 @@
+<meta>
+    <script src="sourceG.lua" type="shared" cache="false"/>
+    <script src="sourceS.lua" type="server"/>
+    <script src="sourceC.lua" type="client" cache="false"/>
+
+    <file src="files/cup_l_b.png" />
+    <file src="files/cup_l_k.png" />
+    <file src="files/cup_l_liquid.png" />
+    <file src="files/cup_m_b.png" />
+    <file src="files/cup_m_k.png" />
+    <file src="files/cup_m_liquid.png" />
+    <file src="files/cup_s_b.png" />
+    <file src="files/cup_s_k.png" />
+    <file src="files/cup_s_liquid.png" />
+    <file src="files/hotdog1_b.png" />
+    <file src="files/hotdog1_k.png" />
+    <file src="files/hotdog2_b.png" />
+    <file src="files/hotdog2_k.png" />
+    <file src="files/hotdog3_b.png" />
+    <file src="files/hotdog3_k.png" />
+    <file src="files/hotdog4_b.png" />
+    <file src="files/hotdog4_k.png" />
+    <file src="files/hotdog5_b.png" />
+    <file src="files/hotdog5_k.png" />
+    <file src="files/sausage1.png" />
+    <file src="files/sausage2.png" />
+    <file src="files/sausage3.png" />
+    <file src="files/Roboto-Bold.ttf" />
+    <file src="files/Roboto-Regular.ttf" />
+    <file src="files/lunabar.ttf" />
+    <file src="files/order.png" />
+
+    <file src="files/fanta.png" />
+    <file src="files/lipton.png" />
+    <file src="files/cocacola.png" />
+    <file src="files/7up.png" />
+
+    <file src="files/emptycup.mp3" />
+    <file src="files/pourdrink.mp3" />
+</meta>

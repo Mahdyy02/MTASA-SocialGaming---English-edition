@@ -1,0 +1,29 @@
+<meta>
+    <script src="global.lua" type="shared" cache="false"/>
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" cache="false"/>
+
+    <file src="files/sound.png" />
+    <file src="files/light.png" />
+
+    <file src="sounds/650_AirHorn.mp3" />
+	<file src="sounds/650_Wail.mp3" />
+	<file src="sounds/650_Yelp.mp3" />
+	<file src="sounds/EQ2B_AirHorn.mp3" />
+	<file src="sounds/EQ2B_Wail.mp3" />
+	<file src="sounds/EQ2B_Yelp.mp3" />
+	<file src="sounds/Federal_Q_Siren.mp3" />
+	<file src="sounds/PA300_Airhorn.mp3" />
+	<file src="sounds/PA300_HiLo.mp3" />
+	<file src="sounds/PA300_Wail.mp3" />
+	<file src="sounds/PA300_Yelp.mp3" />
+	<file src="sounds/SSP_AIRHORN_0.mp3" />
+	<file src="sounds/SSP_PRIORITY_0.mp3" />
+	<file src="sounds/SSP_WAIL_0.mp3" />
+	<file src="sounds/SSP_YELP_0.mp3" />
+
+	
+	<file src="sounds/backup.mp3" />
+
+    <min_mta_version client="1.5.2" server="1.5.2" />
+</meta>

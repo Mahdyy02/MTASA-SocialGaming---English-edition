@@ -1,0 +1,14 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+    
+    <file src="sounds/info.wav" />
+    <file src="sounds/info.mp3" />
+    <file src="sounds/success.mp3" />
+    <file src="sounds/error.mp3" />
+    <file src="sounds/admindutyon.mp3" />
+    <file src="sounds/admindutyoff.mp3" />
+    
+    <export function="addNotification" type="client" />
+    <export function="addNotification" type="server" />
+</meta>

@@ -1,0 +1,53 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="global.lua" type="shared" cache="false" />
+    
+    <export function="getVehicleRealName" type="shared" />
+    
+
+    <!-- Vehicles -->
+	<file src="mods/416.dff" />
+	<file src="mods/416.txd" />		
+	<file src="mods/523.dff" />
+	<file src="mods/523.txd" />		
+	<file src="mods/525.dff" />
+	<file src="mods/525.txd" />		
+	<file src="mods/528.dff" />
+	<file src="mods/528.txd" />		
+	<file src="mods/597.dff" />
+	<file src="mods/597.txd" />	
+	<file src="mods/598.dff" />
+	<file src="mods/598.txd" />	
+	<file src="mods/599.dff" />
+	<file src="mods/599.txd" />	
+	<file src="mods/588.dff" />
+	<file src="mods/588.txd" />
+	<file src="mods/550.dff" />
+	<file src="mods/550.txd" />	
+	<file src="mods/516.dff" />
+	<file src="mods/516.txd" />	
+	<file src="mods/551.dff" />
+	<file src="mods/551.txd" />	
+	<file src="mods/401.dff" />
+	<file src="mods/401.txd" />
+	<file src="mods/546.dff" />
+	<file src="mods/546.txd" />	
+	<file src="mods/413.dff" />
+	<file src="mods/413.txd" />	
+	<file src="mods/587.dff" />
+	<file src="mods/587.txd" />	
+	<file src="mods/410.dff" />
+	<file src="mods/410.txd" />					
+	<file src="mods/559.dff" />
+	<file src="mods/559.txd" />
+	<file src="mods/522.dff" />
+	<file src="mods/522.txd" />	
+	<file src="mods/586.dff" />
+	<file src="mods/586.txd" />	
+	<file src="mods/468.dff" />
+	<file src="mods/468.txd" />	
+	<file src="mods/481.dff" />
+	<file src="mods/481.txd" />
+	<file src="mods/490.dff" />
+	<file src="mods/490.txd" />															
+</meta>

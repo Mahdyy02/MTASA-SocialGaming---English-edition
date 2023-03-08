@@ -1,0 +1,10 @@
+addEventHandler('onClientResourceStart', resourceRoot,
+function()
+local txd = engineLoadTXD('donald.txd',true)
+engineImportTXD(txd, 1853)
+local dff = engineLoadDFF('donald.dff', 0)
+engineReplaceModel(dff, 1853)
+local col = engineLoadCOL('donald.col')
+engineReplaceCOL(col, 1853)
+engineSetModelLODDistance(1853, 500)
+end)

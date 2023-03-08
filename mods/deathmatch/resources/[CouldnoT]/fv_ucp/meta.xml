@@ -1,0 +1,5 @@
+<meta>
+    <script src="server/server.lua" type="server" />
+
+    <export function="getAllPlayer" type="server" http="true" />
+</meta>	

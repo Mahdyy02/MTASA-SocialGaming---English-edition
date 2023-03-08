@@ -1,0 +1,10 @@
+<meta>
+    <script src="Edit.lua" type="shared" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.luac" type="server" cache="false" />
+    <script src="arquivos/dxEditBox.lua" type="client" cache="false" />
+    <file src="arquivos/radio.txd" cache="false" />
+    <file src="arquivos/radio.dff" cache="false" />
+    <file src="arquivos/pipi.mp3" cache="false" />
+    <file src="arquivos/icons.ttf" cache="false" />
+</meta>

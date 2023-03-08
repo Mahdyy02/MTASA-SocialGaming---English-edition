@@ -1,0 +1,6 @@
+<meta>
+    <file src="valaszto.mp3" />
+    <file src="arrow.png" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+</meta>

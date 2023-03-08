@@ -1,0 +1,14 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+    <script src="bubbles/client.luac" type="client" />
+    
+    <script src="placedo/server.lua" type="server" />
+    <script src="placedo/client.lua" type="client" cache="false" />
+    
+    <script src="radio/client.luac" type="client" />
+    <script src="radio/server.lua" type="server" />
+    
+    <export function="createMessage" type="shared" />
+    <export function="sendLocalMeAction" type="server" />
+</meta>

@@ -1,0 +1,8 @@
+<meta>
+    <file src="ufo.txd" />
+    <file src="ufo.dff" />
+    <file src="ufo.mp3" />
+
+    <script src="sourceC.lua" type="client" cache="false" />
+    <script src="sourceS.lua" type="server" />
+</meta>

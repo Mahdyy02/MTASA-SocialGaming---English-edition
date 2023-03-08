@@ -1,0 +1,9 @@
+<meta>
+    <script src="sourceC.luac" type="client" cache="false" /> /&gt;&#x0A;    
+    <file src="new.fx" type="client" />
+    <file src="new2.fx" type="client" />
+    <file src="images/allsaints_law.png" type="client" />
+    <file src="images/airport1_64.png" type="client" />
+    <file src="images/airport2_64.png" type="client" />
+    <min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000"></min_mta_version>
+</meta>

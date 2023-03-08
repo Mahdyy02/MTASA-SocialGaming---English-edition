@@ -1,0 +1,32 @@
+<meta>
+    <script src="async.luac" type="shared" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="global.lua" type="shared" cache="false"/>
+    <script src="server.lua" type="server" />
+    
+    <script src="dock/client.lua" type="client" cache="false" />
+    <script src="dock/server.lua" type="server" />
+    <file src="dock/car.txd" />
+    <file src="dock/car.dff" />
+    
+    <script src="bus/client.lua" type="client" cache="false" />
+    <file src="bus/bus.txd" />
+    <file src="bus/bus.dff" />
+    
+    <script src="electric/client.lua" type="client" cache="false" />
+    <script src="electric/server.lua" type="server" />
+    <file src="electric/box.png" />
+    <file src="electric/shader.fx" />
+    <file src="electric/car.txd" />
+    <file src="electric/car.dff" />
+    
+    <script src="lumberjack/client.lua" type="client" cache="false" />
+    <script src="lumberjack/server.lua" type="server" />
+    
+    <script src="miner/client.lua" type="client" cache="false" />
+    <script src="miner/server.lua" type="server" />
+    <file src="miner/car.txd" />
+    <file src="miner/car.dff" />
+    
+    <export function="getJobName" type="shared" />
+</meta>

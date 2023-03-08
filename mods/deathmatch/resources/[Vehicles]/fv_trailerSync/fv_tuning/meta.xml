@@ -1,0 +1,92 @@
+<meta>
+    <script src="async.lua" type="shared" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="global.lua" type="shared" />
+    <script src="server.lua" type="server" />
+
+    <file src="files/lscustoms.png" />
+    <file src="files/colorpicker.png" />
+
+    <file src="files/turbo.mp3" />
+    <script src="turboC.lua" type="client" cache="false" />
+
+    <!-- Wheel Mods -->
+    <script src="wheels/client.lua" cache="false" type="client" />
+    <file src="wheels/wheel.txd" />
+    <file src="wheels/wheel_gn1.dff" />
+    <file src="wheels/wheel_gn2.dff" />
+    <file src="wheels/wheel_gn3.dff" />
+    <file src="wheels/wheel_gn4.dff" />
+    <file src="wheels/wheel_gn5.dff" />
+
+    <file src="wheels/wheel_lr1.dff" />
+    <file src="wheels/wheel_lr2.dff" />
+    <file src="wheels/wheel_lr3.dff" />
+    <file src="wheels/wheel_lr4.dff" />
+    <file src="wheels/wheel_lr5.dff" />
+
+    <file src="wheels/wheel_or1.dff" />
+
+    <file src="wheels/wheel_sr1.dff" />
+    <file src="wheels/wheel_sr2.dff" />
+    <file src="wheels/wheel_sr3.dff" />
+    <file src="wheels/wheel_sr4.dff" />
+    <file src="wheels/wheel_sr5.dff" />
+    <file src="wheels/wheel_sr6.dff" />
+    <!-- /Wheel Mods/ -->
+
+    <script src="paintjobC.lua" type="client" cache="false" />
+
+    <file src="replace.fx" />
+
+    <file src="paintjobs/stickers.png" />
+    <file src="paintjobs/stickers2.png" />
+    <file src="paintjobs/gold.png" />
+    <file src="paintjobs/race.png" />
+    <file src="paintjobs/carbon.png" />
+    <file src="paintjobs/lava.png" />
+    <file src="paintjobs/digital.png" />
+    <file src="paintjobs/elegy1.png" />
+    <file src="paintjobs/elegy2.png" />
+    <file src="paintjobs/elegy3.png" />
+    <file src="paintjobs/elegy4.png" />
+    <file src="paintjobs/sultan1.png" />
+    <file src="paintjobs/sultan2.png" />
+    <file src="paintjobs/sultan3.png" />
+    <file src="paintjobs/uranus1.png" />
+    <file src="paintjobs/uranus2.png" />
+    <file src="paintjobs/uranus3.png" />
+
+    <file src="paintjobs/sheriff1_427.png" />
+    <file src="paintjobs/sheriff1_596.png" />
+    <file src="paintjobs/sheriff2_596.png" />
+    <file src="paintjobs/sheriff3_596.png" />
+    <file src="paintjobs/sheriff1_597.png" />
+    <file src="paintjobs/sheriff2_597.png" />
+    <file src="paintjobs/sheriff3_597.png" />
+    <file src="paintjobs/fire1_596.png" />
+    <file src="paintjobs/sheriff1_598.png" />
+    <file src="paintjobs/sheriff2_598.png" />
+    <file src="paintjobs/fire1_490.png" />
+    <file src="paintjobs/sheriff1_490.png" />
+
+    
+    <script src="colorpickerC.lua" type="client" cache="false" />
+
+    <script src="neonC.lua" type="client" cache="false" />
+    <file src="neons/col.col" />
+    <file src="neons/blue.dff" />
+    <file src="neons/green.dff" />
+    <file src="neons/orange.dff" />
+    <file src="neons/pink.dff" />
+    <file src="neons/red.dff" />
+    <file src="neons/white.dff" />
+
+    <script src="lsdDoorC.lua" type="client" cache="false" />
+
+    <script src="airrideC.lua" type="client" cache="false" />
+
+
+    <export function="loadVehicleTuning" type="server" />
+    <export function="getPerformanceName" type="shared" />
+</meta>

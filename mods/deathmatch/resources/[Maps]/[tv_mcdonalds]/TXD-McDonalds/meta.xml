@@ -1,0 +1,5 @@
+<meta>
+    <info author="+Duffzin" type="misc" name="Textura placas McDonalds" version="1.0"></info>
+	<script src="replace.lua" type="client" />
+    <file src="cj_burg_sign.txd" />  
+</meta>

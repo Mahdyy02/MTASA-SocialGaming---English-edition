@@ -1,0 +1,6 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    
+    <file src="shader.fx" />
+    <file src="files/white256.png" />
+</meta>

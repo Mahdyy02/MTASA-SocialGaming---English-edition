@@ -1,0 +1,4 @@
+<meta>
+    <script src="atf_interior.lua" type="server" />
+    <script src="lspd_interior.lua" type="server" />
+</meta>

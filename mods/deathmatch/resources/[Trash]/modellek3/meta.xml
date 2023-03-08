@@ -1,0 +1,8 @@
+<meta>
+    <script src="object.luac" type="client" />
+    
+    <file src="hospital.txd" />
+    
+    <file src="hospital.dff" />
+    <file src="hospital.col" />
+</meta>

@@ -1,0 +1,24 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="global.lua" type="shared" />
+    <script src="server.lua" type="server" />
+    <file src="sign.ttf" />
+    
+    <script src="szemelyi/client.lua" type="client" cache="false" />
+    <script src="szemelyi/server.lua" type="server" />
+    <file src="szemelyi/alap.png" />
+    
+    <script src="utlevel/client.lua" type="client" cache="false" />
+    <script src="utlevel/server.lua" type="server" />
+    <file src="utlevel/alap.png" />
+    
+    <script src="jogsi/client.lua" type="client" cache="false" />
+    <script src="jogsi/server.lua" type="server" />
+    <file src="jogsi/alap.png" />
+
+    <script src="fish/client.lua" type="client" cache="false" />
+    <script src="fish/server.lua" type="server" />
+    <file src="fish/alap.png" />
+
+    <export function="showJogsi" type="client" />
+</meta>
